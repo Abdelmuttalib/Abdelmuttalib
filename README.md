@@ -12,7 +12,6 @@
 - 📄 Know about my experiences [https://portfolio-abdelmuttalib.vercel.app/](https://portfolio-abdelmuttalib.vercel.app/)
 
 <p align="left">
-<a href="https://dev.to/abdelmuttalib" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="abdelmuttalib" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/abdelmuttalib ahmed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abdelmuttalib ahmed" height="30" width="40" /></a>
 <a href="https://codesandbox.com/abdelmuttalib ahmed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="abdelmuttalib ahmed" height="30" width="40" /></a>
 <a href="https://dribbble.com/abdelmuttalib alaa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="abdelmuttalib alaa" height="30" width="40" /></a>
