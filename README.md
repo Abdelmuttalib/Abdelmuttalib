@@ -1,11 +1,4 @@
 <h1 align="center">Hello World</h1>
-<h3 align="center">Web developer with a strong eye for
-        innovative design and a keen understanding of techniques geared toward
-        optimum user experience. Dedicated to driving innovation with the
-        ability to follow industry and technological trends, and facilitating
-        early adoption of innovations. Building well-designed and interactive
-        Websites is my ultimate goal.</h3>
-        
         
  - 👨‍💻 All of my projects are available at [https://abdelmuttalib.xyz/](https://abdelmuttalib.xyz/)
 
