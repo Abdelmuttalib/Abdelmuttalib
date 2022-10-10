@@ -1,15 +1,17 @@
-<h1 align="center">Welcome 👋, I'm Abdelmuttalib</h1>
-<h3 align="center">Inspired self-taught web developer with a strong eye for innovative design and a keen understanding of techniques geared toward optimum user experience</h3>
+<h1 align="center">Hello World</h1>
+<h3 align="center">Web developer with a strong eye for
+        innovative design and a keen understanding of techniques geared toward
+        optimum user experience. Dedicated to driving innovation with the
+        ability to follow industry and technological trends, and facilitating
+        early adoption of innovations. Building well-designed and interactive
+        Websites is my ultimate goal.</h3>
+        
+        
+ - 👨‍💻 All of my projects are available at [https://abdelmuttalib.xyz/](https://abdelmuttalib.xyz/)
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abdelmuttalib" alt="abdelmuttalib" /></a> </p>
 
-- 🌱 I’m currently learning **Nodejs, Expressjs, MongoDB, Nginx**
 
-- 👨‍💻 All of my projects are available at [https://portfolio-abdelmuttalib.vercel.app/](https://portfolio-abdelmuttalib.vercel.app/)
-
-- 📫 How to reach me **Abdelmuttalib1@gmail.com**
-
-- 📄 Know about my experiences [https://portfolio-abdelmuttalib.vercel.app/](https://portfolio-abdelmuttalib.vercel.app/)
 
 <p align="left">
 <a href="https://linkedin.com/in/abdelmuttalib ahmed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abdelmuttalib ahmed" height="30" width="40" /></a>
