@@ -1,6 +1,6 @@
 <h1 align="center">Hello World</h1>
         
- - 👨‍💻 All of my projects are available at [https://abdelmuttalib.xyz/](https://abdelmuttalib.xyz/)
+ - 👨‍💻 All of my projects are available at [https://abdelmuttalib.xyz/](https://abdelmuttalib.com/)
 
 <p align="left">
 <a href="https://linkedin.com/in/abdelmuttalib ahmed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abdelmuttalib ahmed" height="30" width="40" /></a>
